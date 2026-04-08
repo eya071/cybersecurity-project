@@ -1,40 +1,33 @@
 # 📅 Daglig logg – Cybersikkerhet
 
 ## 🗓️ Dag 1
-- Jeg valgte tema cybersikkerhet  
-- Jeg lærte hva cybersikkerhet er  
-- Jeg planla prosjektet  
+- Valgte tema cybersikkerhet  
+- Planla innholdet til nettsiden  
+- Lærte om sterke passord  
 
 ---
 
 ## 🗓️ Dag 2
-- Jeg lærte om sterke passord  
-- Jeg begynte å lage nettsiden  
-- Jeg skrev om passordsikkerhet  
+- Startet å lage nettsiden i HTML  
+- Lagde struktur med seksjoner  
+- Skrev tekst om passord og phishing  
 
 ---
 
 ## 🗓️ Dag 3
-- Jeg lærte om phishing  
-- Jeg skrev om hvordan man kan unngå phishing  
-- Jeg jobbet videre med nettsiden  
+- Jobbet med design i CSS  
+- Lagde kort (cards) og layout  
+- La til glass-effekt og hover  
 
 ---
 
 ## 🗓️ Dag 4
-- Jeg lærte om brute force-angrep  
-- Jeg la til mer innhold på nettsiden  
-- Jeg forbedret designet  
-
----
-
-## 🗓️ Dag 5
-- Jeg lærte om oppdateringer og sikkerhet  
-- Jeg fullførte nettsiden  
-- Jeg skrev README og dokumentasjon  
+- La til bakgrunnsbilde  
+- Forbedret design og detaljer  
+- Lastet opp prosjektet til GitHub  
 
 ---
 
 ## 💭 Refleksjon
-Jeg har lært mye om hvordan man kan være trygg på internett.  
-Det mest interessante var å lære hvordan hackere jobber og hvordan man kan beskytte seg.
+Jeg har lært hva cybersikkerhet er og hvordan man kan beskytte seg på internett. 
+Jeg har også lært å lage en moderne nettside med HTML og CSS.
