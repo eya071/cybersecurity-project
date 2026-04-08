@@ -1,16 +1,15 @@
 # 🔐 Cybersikkerhet – IT prosjekt
 
 ## 📌 Om prosjektet
-Dette prosjektet handler om cybersikkerhet og hvordan vi kan beskytte oss på internett.  
-Jeg har jobbet med ulike temaer som passordsikkerhet, hacking-metoder og hvordan man kan sikre systemer.
+Dette prosjektet handler om cybersikkerhet og hvordan vi kan beskytte oss på internett. 
+Jeg har laget en moderne nettside som forklarer viktige temaer innenfor cybersikkerhet.
 
 ---
 
 ## 🎯 Mål
-- Lære hva cybersikkerhet er  
-- Forstå hvordan hackere jobber  
-- Lære hvordan man beskytter seg selv og systemer  
-- Lage en nettside med informasjon om sikkerhet  
+- Forstå hva cybersikkerhet er  
+- Lære om ulike trusler på internett  
+- Lage en brukervennlig og informativ nettside  
 
 ---
 
@@ -18,33 +17,26 @@ Jeg har jobbet med ulike temaer som passordsikkerhet, hacking-metoder og hvordan
 - Hvordan lage sterke passord  
 - Hva phishing er og hvordan det fungerer  
 - Hva brute force-angrep er  
-- Hvorfor oppdateringer er viktig  
+- Hvordan beskytte seg med 2FA og oppdateringer  
+- Hvordan lage en nettside med HTML og CSS  
 
 ---
 
 ## 🛠️ Hva jeg har laget
-- En nettside om cybersikkerhet  
-- Dokumentasjon i GitHub  
-- Daglig logg over arbeidet  
+- En nettside med moderne design  
+- Brukt HTML og CSS  
+- Laget et responsivt og visuelt design  
+- Dokumentert arbeidet i GitHub  
 
 ---
 
-## 🔐 Viktige temaer
-
-### 🔑 Sterke passord
-Bruk lange passord med bokstaver, tall og symboler.
-
-### 🎣 Phishing
-Falske e-poster eller meldinger som prøver å lure deg.
-
-### 💣 Brute force
-Når hackere prøver mange passord for å komme inn.
-
-### 🔄 Oppdateringer
-Holder systemet sikkert mot nye trusler.
+## 🎨 Design og brukeropplevelse
+Jeg har fokusert på et moderne og elegant design med mørk bakgrunn og "glass-effekt". 
+Målet var å gjøre nettsiden visuelt interessant og ikke kjedelig å lese.
 
 ---
 
 ## 🚀 Konklusjon
-Cybersikkerhet er veldig viktig i dagens samfunn.  
-Gjennom dette prosjektet har jeg lært hvordan jeg kan beskytte meg selv og andre på internett.
+Cybersikkerhet er viktig i dagens samfunn. 
+Gjennom dette prosjektet har jeg lært hvordan man kan beskytte seg selv på internett, 
+og hvordan man kan presentere informasjon på en profesjonell måte.
